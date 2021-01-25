@@ -18,7 +18,7 @@ if you don't have rospy in python3 use this command
 
 then install requirements with this command:
 
->> pip3 install -r requirements.txt
+>> pip3 install -r requirement.txt
 
 after that you should make your database:
 
